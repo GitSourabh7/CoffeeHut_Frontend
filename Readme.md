@@ -3,3 +3,4 @@
 - Product Catalog
 - Discount Plans
 - Testimonials
+- Featured Products
